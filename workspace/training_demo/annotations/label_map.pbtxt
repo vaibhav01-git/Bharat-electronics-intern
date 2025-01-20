@@ -1,0 +1,24 @@
+item {
+  name: "CompanyName"
+  id: 1
+}
+item {
+  name: "CompanyAddress"
+  id: 2
+}
+item {
+  name: "CustomerAddress"
+  id: 3
+}
+item {
+  name: "Total"
+  id: 4
+}
+item {
+  name: "InvoiceNumber"
+  id: 5
+}
+item {
+  name: "Date"
+  id: 6
+}
